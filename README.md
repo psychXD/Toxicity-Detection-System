@@ -9,14 +9,7 @@ The aim is to evaluate their performance using metrics such as accuracy, precisi
 - Toxicity classification and benchmark testing.
 - Performance evaluation with various metrics.
 
-## Requirements
-Ensure you have the following libraries installed:
-
-```bash
-pip install transformers accelerate bitsandbytes datasets torch scikit-learn
-```
-
-Results include:
+## Results 
 - Classification accuracy
 - Precision, recall, and F1-score
 
