@@ -1,4 +1,4 @@
-# Project: Toxicity Detection using Bert Abd T5 based Models Benchmarking with LLaMA-2
+# Project: Toxicity Detection using Bert And T5 Models Benchmarking with LLaMA-2
 Trained a Bert based model and T5 based Model 
 This repository contains the implementation of benchmarking generative and discriminative large language models (LLMs) for toxicity detection. 
 The primary models used  will be  LLaMA-2. // under progress
